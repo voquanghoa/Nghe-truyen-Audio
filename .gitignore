@@ -6,6 +6,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+Resource.designer.cs
+AboutResources.txt
 
 # Build results
 [Dd]ebug/
